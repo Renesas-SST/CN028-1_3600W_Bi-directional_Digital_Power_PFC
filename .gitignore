@@ -1,0 +1,11 @@
+# e2 Studio
+Debug/
+HardwareDebug/
+trash/
+build/
+
+# CS+
+DefaultBuild/
+SmartManual Docs/
+*.html
+*.mtud
